@@ -6,9 +6,9 @@ Steps:
 
 1. Clone this project
 
-2. Import it as a Java project in Eclipse
+2. Import it into Eclipse by selecting File > Import > General > Existing Projects into Workspace
 
-3. Run HelloWorldPublisher.java as Java application first and wait for a couple of seconds
+3. Run HelloWorldPublisher.java as Java application first and wait for a couple of seconds. It will publish the web service.
 
 4. Then run HelloWorldClient.java as Java application and it should consume the web service and print the response.
 
