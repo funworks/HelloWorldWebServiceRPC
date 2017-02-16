@@ -1,4 +1,4 @@
-package com.webservice.client;
+package com.webservice.rpc;
 
 import java.net.MalformedURLException;
 import java.net.URL;
